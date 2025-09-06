@@ -1,0 +1,4 @@
+{
+  "name": "MediPlan",
+  "description": "Verwalten Sie Ihre Medikamentenpläne einfach und zuverlässig."
+}
